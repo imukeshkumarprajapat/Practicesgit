@@ -13,4 +13,3 @@ def multiplication(a, b):
 
 
 name="kamlesh , manisha, sonu"
->>>>>>> 4c48eb5b21c69e24a8569817b3f85e3199c7d1de
